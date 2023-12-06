@@ -1,0 +1,22 @@
+picto:
+https://ionic.io/ionicons
+
+lettre : <ion-icon name="mail"></ion-icon>
+profil : <ion-icon name="person"></ion-icon>
+map : <ion-icon name="map"></ion-icon>
+euro : <ion-icon name="logo-euro"></ion-icon>
+historique : <ion-icon name="time"></ion-icon>
+faq : <ion-icon name="help-circle"></ion-icon>
+
+couleurs:
+vert:
+boutons: #009245
+arrière plan des card: #DDFFBC
+
+rouge: 
+bouton se déconnecter: #FF6868
+
+rose:
+arrière plan footer: #FFF4EBù
+
+
